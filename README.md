@@ -1,7 +1,6 @@
 [![mail](https://img.shields.io/badge/gongdongho12@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:gongdongho12@gmail.com)
+[![resume](https://img.shields.io/badge/Dongho's_resume-47766a?style=round-square&logo=Notion)](resume.dongholab.com)
 [![linked-in](https://img.shields.io/badge/dongholab-0A66C2?style=round-square&logo=LinkedIn)](mailto:gongdongho12@gmail.com)
-[![resume](https://img.shields.io/badge/Dongho's_resume-000000?style=round-square&logo=Notion)](resume.dongholab.com)
-
 
 👋 Hi there! I'm **back-end developer** using Spring-Boot.
 
