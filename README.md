@@ -6,7 +6,12 @@
 
 I've been developing backend mainly using Kotlin and Webflux, and sometimes I'm developing React.js and Android apps as frontend.
 
-### 💪 Skills
+### 💪 Stats
+
+![Dongho Gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongdongho12&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongdongho12&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
+### ✍ Skills
 #### Frameworks & Languages
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=SpringBoot&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-02569B?style=round-square&logo=React&logoColor=white)
