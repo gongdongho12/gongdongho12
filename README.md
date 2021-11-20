@@ -8,7 +8,7 @@ I've been developing backend mainly using Kotlin and Webflux, and sometimes I'm 
 
 ### 💪 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongdongho12&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-![Dongho Gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongdongho12&show_icons=true&theme=radical)
+![Dongho Gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongdongho12&show_icons=true&theme=vue)
 
 ### ✍ Skills
 #### Frameworks & Languages
