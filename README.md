@@ -6,10 +6,6 @@
 
 I've been developing backend mainly using Kotlin and Webflux, and sometimes I'm developing React.js and Android apps as frontend.
 
-### 💪 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongdongho12&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-![Dongho Gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongdongho12&show_icons=true&theme=vue)
-
 ### ✍ Skills
 #### Frameworks & Languages
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=SpringBoot&logoColor=white)
@@ -37,3 +33,7 @@ I've been developing backend mainly using Kotlin and Webflux, and sometimes I'm 
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=round-square&logo=WireGuard&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=AmazonAWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white)
+
+### 💪 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongdongho12&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+![Dongho Gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongdongho12&show_icons=true&theme=vue)
