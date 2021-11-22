@@ -32,6 +32,8 @@ I've been developing backend mainly using Kotlin and Webflux, and sometimes I'm 
 ![Git](https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white)
 ![Intelij](https://img.shields.io/badge/IntelliJ-000000?style=round-square&logo=IntelliJIDEA&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-007ACC?style=round-square&logo=VisualStudioCode&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=Jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=round-square&logo=Jira&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=round-square&logo=WireGuard&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=AmazonAWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white)
