@@ -1,6 +1,6 @@
-<a href="mailto:gongdongho12@gmail.com" target="_blank">![mail](https://img.shields.io/badge/gongdongho12@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)</a>
-<a href="http://resume.dongholab.com" target="_blank">![resume](https://img.shields.io/badge/Dongho's_resume-47766a?style=round-square&logo=Notion)</a>
-<a href="https://www.linkedin.com/in/dongholab/" target="_blank">![linked-in](https://img.shields.io/badge/Dongho-0A66C2?style=round-square&logo=LinkedIn)</a>
+[![mail](https://img.shields.io/badge/gongdongho12@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:gongdongho12@gmail.com)
+[![resume](https://img.shields.io/badge/Dongho's_resume-47766a?style=round-square&logo=Notion)](http://resume.dongholab.com)
+[![linked-in](https://img.shields.io/badge/Dongho-0A66C2?style=round-square&logo=LinkedIn)](https://www.linkedin.com/in/dongholab/)
 
 👋 Hi there! I'm **back-end developer** using Spring-Boot.
 
