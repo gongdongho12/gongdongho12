@@ -36,5 +36,5 @@ I've been developing backend mainly using Kotlin and Webflux, and sometimes I'm 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white)
 
 ### 💪 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongdongho12&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongdongho12&hide=css,html)
 ![Dongho Gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongdongho12&show_icons=true&theme=vue)
