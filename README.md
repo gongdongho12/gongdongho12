@@ -6,7 +6,7 @@
 
 I've been developing backend mainly using Kotlin and Webflux, and sometimes I'm developing React.js and Android apps as frontend.
 
-### ✍ Skills
+### 🛠 Tech Stack
 #### Frameworks & Languages
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=SpringBoot&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-02569B?style=round-square&logo=React&logoColor=white)
