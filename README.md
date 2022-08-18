@@ -6,6 +6,8 @@
 
 I've been developing backend mainly using Kotlin and Webflux, and sometimes I'm developing React.js and Android apps as frontend.
 
+<img src="imgs/avatar_background.png" width="100%" />
+
 ### 🛠 Tech Stack
 #### Frameworks & Languages
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=SpringBoot&logoColor=white)
