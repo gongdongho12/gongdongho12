@@ -4,7 +4,7 @@
 
 👋 Hi there! I'm **back-end developer** using Spring-Boot.
 
-I've been developing backend mainly using Kotlin and Webflux, and sometimes I'm developing React.js and Android apps as frontend.
+I've been developing backend mainly using Kotlin and SpringBoot, and sometimes I'm developing React.js and Android apps as frontend.
 
 <img src="imgs/avatar_background.png" width="100%" />
 
