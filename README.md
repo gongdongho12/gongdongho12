@@ -6,7 +6,7 @@
 
 I've been developing backend mainly using Kotlin and SpringBoot, and sometimes I'm developing React.js and Android apps as frontend.
 
-<img src="imgs/avatar_background.png" width="100%" />
+<img src="imgs/B04.png" width="100%" />
 
 ### 🛠 Tech Stack
 #### Frameworks & Languages
