@@ -61,12 +61,12 @@ I've been developing backend mainly using Kotlin and SpringBoot, and sometimes I
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       </td>
       <td align="center">
-        <span><strong>Redis</strong></span><br>
+        <span><strong>Postgresql</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Postgresql</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <span><strong>Redis</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
       </td>
       <td width="80px" align="center">
         <span><strong>MongoDB</strong></span><br>
