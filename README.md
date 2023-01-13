@@ -120,6 +120,6 @@ I've been developing backend mainly using Kotlin and SpringBoot, and sometimes I
 
 ### 💪 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongdongho12&hide=css,html)
-<!-- ![Dongho Gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongdongho12&show_icons=true&theme=vue) -->
+![Dongho Gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gongdongho12&show_icons=true&theme=vue)
 [![Dongho Gang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gongdongho12&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=gongdongho12&margin-w=0&theme=gitdimme&row=1&column=5)
