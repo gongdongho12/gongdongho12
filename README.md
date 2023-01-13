@@ -11,32 +11,112 @@ I've been developing backend mainly using Kotlin and SpringBoot, and sometimes I
 
 ### 🛠 Tech Stack
 #### Frameworks & Languages
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=round-square&logo=SpringBoot&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-02569B?style=round-square&logo=React&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white)
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=round-square&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white)
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Spring</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+      </td>
+      <td align="center">
+        <span><strong>React.js</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Node.js</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Android</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Git</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Java</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>TypeScript</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>JavaScript</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 #### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=MariaDB&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-F05032?style=round-square&logo=Redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white)
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>MySql</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </td>
+      <td align="center">
+        <span><strong>Redis</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Postgresql</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>MongoDB</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 #### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white)
-![Intelij](https://img.shields.io/badge/IntelliJ-000000?style=round-square&logo=IntelliJIDEA&logoColor=white)
-![vscode](https://img.shields.io/badge/vscode-007ACC?style=round-square&logo=VisualStudioCode&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=round-square&logo=Jenkins&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=round-square&logo=Insomnia&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=round-square&logo=Jira&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=round-square&logo=WireGuard&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=AmazonAWS&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white)
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Git</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      </td>
+      <td align="center">
+        <span><strong>Intelij</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>VSCode</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>AndroidStudio</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Jira</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>AWS</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Docker</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Jenkins</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 💪 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongdongho12&hide=css,html)
