@@ -35,7 +35,7 @@ I've been developing backend mainly using Kotlin and SpringBoot, and sometimes I
     </tr>
     <tr valign="top">
       <td width="80px" align="center">
-        <span><strong>Git</strong></span><br>
+        <span><strong>Kotlin</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
       </td>
       <td width="80px" align="center">
