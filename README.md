@@ -113,11 +113,11 @@ I've been developing backend mainly using Kotlin and SpringBoot, and sometimes I
       </td>
       <td width="80px" align="center">
         <span><strong>AWS</strong></span><br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
       </td>
       <td width="80px" align="center">
         <span><strong>Docker</strong></span><br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>Jenkins</strong></span><br>
