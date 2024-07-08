@@ -131,5 +131,5 @@ I've been developing backend mainly using Kotlin and SpringBoot, and sometimes I
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gongdongho12&theme=vue)
 ![Dongho Gang's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gongdongho12&theme=vue)
 ![Dongho Gang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gongdongho12&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j)
-![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gongdongho12&theme=vue&utcOffset=8)
+![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gongdongho12&theme=vue&utcOffset=9)
 ![trophy](https://github-profile-trophy.vercel.app/?username=gongdongho12&margin-w=0&theme=gitdimme&row=1&column=5)
