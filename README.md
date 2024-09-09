@@ -12,6 +12,7 @@ I've been developing backend mainly using Kotlin and SpringBoot, and sometimes I
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gongdongho12&theme=vue)
 
 ### 👨‍💼 Experience
+- PlatformEnable, LG U+ VoltUp (2024.09 ~)
 - Pricing System, KakaoStyle (2022.06 ~ 2024.09)
 - Research & Development, StoreLink (2021.03 ~ 2022.06)
 - Front-End Development, WhatapLabs (2019.03 ~ 2021.03)
